@@ -1,3 +1,4 @@
+#include "randArray.hpp"
 #include <random>
 #include <iostream>
 

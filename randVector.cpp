@@ -1,3 +1,4 @@
+#include "randVector.hpp"
 #include <random>
 #include <iostream>
 #include <vector>

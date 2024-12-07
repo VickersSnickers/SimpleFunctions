@@ -1,3 +1,4 @@
+#include "smooth3_generate.hpp"
 #include <set>
 #include <vector>
 #include <cmath>
